@@ -1,0 +1,100 @@
+[
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "TKTK COPY FROM CV FOR NOW"
+  },
+  {
+    "objectID": "participate.html",
+    "href": "participate.html",
+    "title": "Participate",
+    "section": "",
+    "text": "We are not currently enrolling any participants in research studies. Please check back later!"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact us",
+    "section": "",
+    "text": "Prospective USD undergraduate research assistants can submit an application for consideration. You must use your USD login to access the application form."
+  },
+  {
+    "objectID": "contact.html#prospective-research-assistants",
+    "href": "contact.html#prospective-research-assistants",
+    "title": "Contact us",
+    "section": "",
+    "text": "Prospective USD undergraduate research assistants can submit an application for consideration. You must use your USD login to access the application form."
+  },
+  {
+    "objectID": "contact.html#prospective-study-participants",
+    "href": "contact.html#prospective-study-participants",
+    "title": "Contact us",
+    "section": "Prospective study participants",
+    "text": "Prospective study participants\nPlease visit the Participate page for the most updated info on research studies that may be available for you to participate in."
+  },
+  {
+    "objectID": "contact.html#general-lab-inquiries",
+    "href": "contact.html#general-lab-inquiries",
+    "title": "Contact us",
+    "section": "General lab inquiries",
+    "text": "General lab inquiries\nPlease email Dr. Thieu for other lab inquiries."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Emotions shape our conscious experience and guide our interactions with the world and people around us. Most of these emotions arise from external information that comes in through our senses 👁️👂👃👅✋.\nThe Computational Cognition & Affect Lab wants to know: How does perceptual information contribute to emotional experience?\nWe investigate the large-scale neural algorithms that the brain uses to process perceptual and emotional information. Specifically, we apply computational models of perception to human behavioral, self-report, and neuroimaging data collected while people experience emotional stimuli.\nWe use open-source scientific computing tools for our research. As members of the computational research community, we are also interested in meta-research about improving knowledge and use of scientific computing software.\nPS: we sometimes apply tools of psychology and neuroscience to other personal interests!"
+  },
+  {
+    "objectID": "research.html#computational-cognitive-affective-neuroscience",
+    "href": "research.html#computational-cognitive-affective-neuroscience",
+    "title": "Research",
+    "section": "Computational cognitive & affective neuroscience",
+    "text": "Computational cognitive & affective neuroscience\nCurrent projects include…\n\nPerceptual building blocks for subjective emotions\n\nHumans and other species share certain brain & cognitive systems for survival that are tuned to detect very specific perceptual inputs. (For example, detecting the expanding shape of something looming that’s on track to hit you in the face. Danger!) How does the information from these evolutionarily old systems contribute to human emotions in particular?\nRelevant publications:\n\nThieu, M. K., Ayzenberg, V., Lourenco, S. F., & Kragel, P. A. (2024). Visual looming is a primitive for human emotion. iScience, 27(6).\n\n\n\nComponents of mixed emotional experiences\n\nMixed emotions like relief or disappointment often arise from reversals of fortune, where something almost happens but doesn’t at the last minute. Can we identify the perceptual ingredients of mixed emotions, and differentiate them from emotions with similar perceptual inputs but different outcomes?"
+  },
+  {
+    "objectID": "research.html#meta-science-of-computational-research-methods",
+    "href": "research.html#meta-science-of-computational-research-methods",
+    "title": "Research",
+    "section": "Meta-science of computational research methods",
+    "text": "Meta-science of computational research methods\n\nCurrent projects include…\n\nBuilding community resources for scientists working on public datasets\nMany different groups of scientists are often conducting simultaneous studies on the same public datasets. How can this scientific community share knowledge and expertise about the data, both independently from and in harmony with the original stewards of the data?\nRelevant publications:\n\nAli, S. A., McCann, C. F., Thieu, M. K., Whitmore, L. B., & Laird, A. R. (2024). NowIKnowMyABCD: A global resource hub for researchers using data from the ABCD study. Developmental Cognitive Neuroscience.\n\n\n\nContributing to open-source scientific software\nWe try to leave our software better than we found it! This often takes the form of collaborating with users and maintainers on GitHub to fix and improve functionality for packages that are used by many other scientists.\nSample contributions:\n\nemonet-pytorch: PyTorch version of the EmoNet convolutional neural network for emotion classification from images (Kragel et al., 2019)\nggseg: R package for plotting whole-brain parcel statistics using ggplot2"
+  },
+  {
+    "objectID": "research.html#other-projects",
+    "href": "research.html#other-projects",
+    "title": "Research",
+    "section": "Other projects",
+    "text": "Other projects\nOther current projects include…\n\nMemory mechanisms of trivia expertise\n\nHow are some people predisposed to remember lots of random facts?\nCurrent research questions include:\n\nHow long after initial learning do trivia experts show enhanced episodic-semantic binding?\nCan non-trivia experts be trained in expert-like memory strategies to improve incidental trivia retention?\nIs trivia experts’ enhanced episodic-semantic binding associated with differences in temporal lobe structure and function?\n\nRelevant publications:\n\nThieu, M. K., Wilkins, L. J., Aly, M. (2024). Episodic-semantic linkage for $1000: New semantic knowledge is more strongly coupled with episodic memory in trivia experts. Psychonomic Bulletin & Review, 31, 1867–1879.\n\nThis project is being conducted in collaboration with the Aly Lab at UC Berkeley."
+  },
+  {
+    "objectID": "team.html",
+    "href": "team.html",
+    "title": "Team",
+    "section": "",
+    "text": "Monica Thieu, PhD is an Assistant Professor in the Department of Neuroscience, Cognition, & Behavior at the University of San Diego. She uses behavioral, computational modeling, and neuroimaging methods to quantify the contributions of perceptual information to emotional experience. She also contributes to community maintenance for open-source scientific computing software.\nMonica earned her B.A. in psychology from Stanford University under Drs. Melina Uncapher and Anthony Wagner, where she also worked as a lab manager, and her Ph.D. in psychology from Columbia University under Dr. Kevin Ochsner. She then completed postdoctoral training as an NIH IRACDA FIRST fellow at Emory University, both in research under Dr. Philip Kragel, and in teaching at Spelman College under Dr. Jimmeka Wright."
+  },
+  {
+    "objectID": "team.html#lab-director",
+    "href": "team.html#lab-director",
+    "title": "Team",
+    "section": "",
+    "text": "Monica Thieu, PhD is an Assistant Professor in the Department of Neuroscience, Cognition, & Behavior at the University of San Diego. She uses behavioral, computational modeling, and neuroimaging methods to quantify the contributions of perceptual information to emotional experience. She also contributes to community maintenance for open-source scientific computing software.\nMonica earned her B.A. in psychology from Stanford University under Drs. Melina Uncapher and Anthony Wagner, where she also worked as a lab manager, and her Ph.D. in psychology from Columbia University under Dr. Kevin Ochsner. She then completed postdoctoral training as an NIH IRACDA FIRST fellow at Emory University, both in research under Dr. Philip Kragel, and in teaching at Spelman College under Dr. Jimmeka Wright."
+  },
+  {
+    "objectID": "team.html#undergraduate-research-assistants",
+    "href": "team.html#undergraduate-research-assistants",
+    "title": "Team",
+    "section": "Undergraduate research assistants",
+    "text": "Undergraduate research assistants\nThe CoCoA Lab is currently recruiting undergraduate research assistants. If you are an interested USD student, please contact Dr. Thieu to submit a statement of interest!"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "CoCoA Lab @ University of San Diego",
+    "section": "",
+    "text": "Welcome to the online home of the Computational Cognition & Affect Lab at the University of San Diego, led by Dr. Monica Thieu.\nThis lab website is under construction–anything you see might be subject to change!"
+  }
+]
